@@ -1,0 +1,39 @@
+html{
+    box-sizing: border-box;
+
+}
+*,*:before, *:after{
+    box-sizing: inherit;
+}
+#ejemplo1{
+    background-color: #f1a20b;
+    width: 500px;
+    height: 100px;
+}
+
+#ejemplo2{
+    background-color: #f1a20b;
+    width: 500px;
+    height: 100px;
+    border: 10px outset #fc036c; /*solid dash  */
+}
+
+#ejemplo3{
+    background-color: #f1a20b;
+    width: 500px;
+    height: 100px;
+    border: 10px outset #fc036c; /*solid dash  */
+    padding: 20px;
+
+}
+
+
+#ejemplo4{
+    background-color: #f1a20b;
+    width: 500px;
+    height: 100px;
+    border: 10px outset #fc036c; /*solid dash  */
+    padding: 20px;
+    margin: 12px;
+
+}
